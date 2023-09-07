@@ -1,0 +1,12 @@
+html{
+    background-image: url(./asset/backgroundimage.jpg);
+}
+p{
+    color: navajowhite;
+}
+h1{
+    color:palegreen;
+}
+h2{
+    color:rgb(187, 125, 9);
+}
